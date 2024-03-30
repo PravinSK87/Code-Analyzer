@@ -1,7 +1,8 @@
 openai
 tiktoken
 chromadb==0.4.4
-langchin
+langchain
 flask
 GitPython
 python-dotenv
+-e .
